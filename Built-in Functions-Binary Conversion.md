@@ -9,9 +9,14 @@ To write a Python program to convert the number **16** into its **binary represe
 3. Print the result.
 
 ## 🧾 Program
+```
+a=16
+binary_number= bin(a)
+print(binary_number)
 
-Add Code Here
-
+```
 ## Output
+<img width="1263" height="131" alt="image" src="https://github.com/user-attachments/assets/aae5b460-abf1-41d5-9607-f2e1735ed3c3" />
+
 
 ## Result
